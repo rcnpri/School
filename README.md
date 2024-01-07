@@ -29,3 +29,23 @@
 - **Метод `SchoolsByCriteria`:** Выполняет SQL-запрос, выбирая школу с определенными критериями.
 - **Метод `calculateAverageStudentsByCountry`:** Выполняет SQL-запрос, рассчитывающий среднее количество студентов по странам, и выводит результат в консоль.
 
+# Задания 
+1) Выведите в консоль среднее количество расходов(expenditure) в Fresno, Contra Costa, El Dorado и Glenn, у которых расход больше 10.
+Результат:
+![image](https://github.com/rcnpri/School/assets/155918918/7e1f94c6-3f26-4c17-a76c-d8c29ada851e)
+
+2) Выведите в консоль учебное заведение, с количеством студентов равному от 5000 до 7500 и с 10000 до 11000, с самым высоким показателем по математике (math)
+   Результат:
+   ![image](https://github.com/rcnpri/School/assets/155918918/17b988d1-87fe-449c-83c6-694c0600d3a5)
+
+3) Постройте график по среднему количеству студентов, в 10 различных странах, взять на свой выбор.
+   Результат:
+   ![image](https://github.com/rcnpri/School/assets/155918918/0e860d4e-7d8c-4bbf-950a-56d2fe0a0790)
+
+4) Таблица с данными:
+   ![image](https://github.com/rcnpri/School/assets/155918918/44f0c20f-ef2a-4c67-a670-1e89f987d495)
+   ![image](https://github.com/rcnpri/School/assets/155918918/ca341d96-9760-41e6-9d3d-82254fbc02ca)
+
+
+
+
