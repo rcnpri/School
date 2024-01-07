@@ -41,6 +41,8 @@
 3) Постройте график по среднему количеству студентов, в 10 различных странах, взять на свой выбор.
    Результат:
    - ![image](https://github.com/rcnpri/School/assets/155918918/0e860d4e-7d8c-4bbf-950a-56d2fe0a0790)
+   - ![image](https://github.com/rcnpri/School/assets/155918918/2aab2974-43de-47c6-94c7-490794bcbc78)
+
 
 4) Таблица с данными:
    - ![image](https://github.com/rcnpri/School/assets/155918918/44f0c20f-ef2a-4c67-a670-1e89f987d495)
